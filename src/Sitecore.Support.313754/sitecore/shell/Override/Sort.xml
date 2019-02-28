@@ -3,7 +3,7 @@
   <Sitecore.Shell.Applications.Dialogs.Sort>
     <FormDialog Icon="WordProcessing/32x32/line_spacing_h.png" Header="Sort the Content Items" TextCssClass="scDialogTextWithPadding"
       Text="Arrange the content items in the order that you want. Use the buttons to move content items up or down. You can also drag and drop items to rearrange their sort order.">
-      <CodeBeside Type="Sitecore.Shell.Applications.Dialogs.Sort.SortForm, Sitecore.Client"/>
+      <CodeBeside Type="Sitecore.Support.Shell.Applications.Dialogs.Sort.SortForm, Sitecore.Support.313754"/>
       <Stylesheet Src="/sitecore/shell/Applications/Dialogs/Sort/Sort.css" DeviceDependant="false" />
       <Script Src="/sitecore/shell/Controls/Lib/scriptaculous/scriptaculous.js?load=effects,dragdrop"></Script>
       <Script Src="/sitecore/shell/Applications/Dialogs/Sort/Sort.js" />
